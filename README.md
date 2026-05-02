@@ -32,9 +32,11 @@ dev-productivity/
 ---
 
 ## Project Links
+* **Demo Video:**
+https://drive.google.com/file/d/1QABG70hJkobuejTVIkBYkA3TWQqBw0xb/view?usp=sharing
 
-* **Demo Video:** [Insert Link Here]
-* **Miro Board / Architecture:** [Insert Link Here]
+* **Miro Board / Architecture:**
+  https://miro.com/app/board/uXjVHZHJXsw=/?share_link_id=869170423971
 
 ---
 
