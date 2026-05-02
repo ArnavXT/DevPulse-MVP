@@ -4,7 +4,7 @@ DevPulse is a modern, full-stack analytics dashboard designed to measure, visual
 
 Instead of just showing raw data, DevPulse focuses on **interpretation and context**—helping teams identify bottlenecks, balance speed with quality, and celebrate high performers without causing metric anxiety.
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 dev-productivity/
@@ -31,14 +31,14 @@ dev-productivity/
 
 ---
 
-## 🔗 Project Links
+## Project Links
 
 * **Demo Video:** [Insert Link Here]
 * **Miro Board / Architecture:** [Insert Link Here]
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Step 1 — Place the Excel file
 Copy the raw dataset into the backend data folder:
@@ -71,7 +71,7 @@ npm start
 
 ---
 
-## ✨ Core Features & Visualizations
+## Core Features & Visualizations
 
 - **Radar (Spider) Charts:** A "Gold Standard" visualization for individual contributors. It plots Lead Time, Cycle Time, PR Throughput, and Quality on a normalized circular grid, instantly highlighting a developer's "shape" and balancing speed vs. quality.
 - **Cumulative Flow Diagrams (CFD):** A team-level visualization showing the stacked status of all tickets over time, making it impossible for bottlenecks (like PRs stuck in code review) to hide.
@@ -81,7 +81,7 @@ npm start
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Endpoint | Description |
 |---|---|
